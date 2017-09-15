@@ -1,0 +1,39 @@
+body {
+    background-color: ivory;
+}
+
+#div1 {
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+}
+
+#table1 {
+    position: relative;
+    width: 100%;
+    table-layout: fixed;
+    border: 1px solid goldenrod;
+}
+
+#divmiddle{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+    height: 5rem;
+    background: black;
+    border: 1px solid red;
+}
+
+#table2{
+    position: relative;
+    width: 100%;
+    table-layout: fixed;
+    border: 1px dashed blue;
+}
+
+tr, td, th {
+    text-align: center;
+    border: 1px solid black;
+}
